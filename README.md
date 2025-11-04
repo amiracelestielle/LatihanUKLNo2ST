@@ -1,6 +1,6 @@
 # Program Penjumlahan Dua Bilangan Matriks
 
-Program ini dibuat untuk **menjumlahkan dua buah matriks** yang elemen-elemenya dimasukkan langsung oleh pengguna.  
+Program ini dibuat untuk menjumlahkan dua buah matriks yang elemen-elemenya dimasukkan langsung oleh pengguna.  
 Setelah pengguna memasukkan semua nilai, program akan menampilkan hasil penjumlahan kedua matriks tersebut.
 
 ## 🧮 Bahasa Pemrograman
